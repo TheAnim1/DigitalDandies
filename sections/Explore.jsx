@@ -25,7 +25,7 @@ const Explore = () => {
           title={
             <>
               Choose the planet you want <br className="md:block hidden" /> to
-              explore!
+              visit and explore!
             </>
           }
           textStyles="text-center"
