@@ -35,15 +35,13 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: "/vrpano.svg",
-    title: "A new world",
-    subtitle:
-      "we have the latest update with new world for you to try never mind",
+    title: "Enter a world of endless possibilities",
+    subtitle: "a brand spanking new universe just for you!",
   },
   {
     imgUrl: "/headset.svg",
-    title: "More realistic",
-    subtitle:
-      "In the latest update, your eyes are narrow, making the world more realistic than ever",
+    title: "Get ready for the real deal",
+    subtitle: "Upgrade to our latest version for mind-blowing visuals!",
   },
 ];
 
