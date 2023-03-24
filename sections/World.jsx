@@ -38,7 +38,7 @@ const World = () => (
           <img src="people-03.png" alt="people" className="w-full h-full" />
         </div>
         <div
-          className="absolute top-[25px] left-[45%] w-[210px] h-[150px] p-[6px] rounded-lg border-4 border-[#3B4677] bg-cover bg-center  "
+          className="absolute lg:block hidden top-[25px] left-[45%] w-[210px] h-[150px] p-[6px] rounded-lg border-4 border-[#3B4677] bg-cover bg-center  "
           style={{
             backgroundImage: "url('/planet-01.png')",
           }}
@@ -66,7 +66,7 @@ const World = () => (
           </p>
         </div>
         <div
-          className="absolute bottom-[55px] left-[15%] w-[210px] h-[150px] p-[6px] rounded-lg border-4 border-[#3B4677] bg-cover bg-center bg-[rgba(0,0,0,0.5)] "
+          className="absolute lg:block hidden bottom-[55px] left-[15%] w-[210px] h-[150px] p-[6px] rounded-lg border-4 border-[#3B4677] bg-cover bg-center bg-[rgba(0,0,0,0.5)] "
           style={{
             backgroundImage: "url('/planet-05.png')",
           }}

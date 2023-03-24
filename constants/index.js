@@ -48,21 +48,22 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: "/planet-06.png",
-    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
+    title:
+      "Exploring the Mystical World of Xalax: An Imaginary Planet with Endless Wonders",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "Journey through the vibrant landscapes and discover the unique creatures that call Xalax home.",
   },
   {
     imgUrl: "/planet-07.png",
-    title: "7 tips to easily master the madness of the Metaverse",
+    title: "10 tips to easily master the madness of the DigitalDandies",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "Streamline your digital life with these expert strategies and stay ahead of the curve in the fast-paced world of technology",
   },
   {
     imgUrl: "/planet-08.png",
-    title: "With one platform you can explore the whole world virtually",
+    title: "With one platform you can explore the whole planet virtually",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+      "Experience the beauty and wonder of our world from the comfort of your own home with this groundbreaking virtual platform.",
   },
 ];
 
